@@ -1,0 +1,35 @@
+body {
+    color: black;
+    background: pink;
+    margin: 10px;
+    font-family: "Sanchez", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(235, 0, 255, 1);
+    padding: 10px;
+    margin-top: 2px;
+    font-size: 26px;
+}
+
+section {
+    background: black;
+    color: white;
+    margin: -7;
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{ 
+    font-size: 35px;
+}
+
+p{
+    font-size: 25px;
+}
